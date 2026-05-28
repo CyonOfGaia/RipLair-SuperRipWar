@@ -1,0 +1,5 @@
+To install new tilesets (like Objects_15), extract the folder containing its contents, then place the tileset's folder in the following directory:
+
+SMWar/data/gfx/packs/Classic/tilesets
+
+Then reload the game and the level editor, and you should be good to go!
