@@ -1,0 +1,171 @@
+#This file contains global overrides for maps and worlds.  Put music tracks 
+#in here that you always want to play for maps or worlds regardless of what
+#music pack is selected in the game.
+
+#The music files must be full paths relative to the smw directory.  This provides
+#flexibility to put your music files anywhere under /smw.
+
+[maps]
+#The following maps are assigned special music to them.
+#If the song file or file path does not exist, the map instead uses
+#the original music category picked for it.
+
+#Example format of map music overrides is found below.
+#0smw,music/game/Standard/smb3level1.ogg,music/game/Standard/M2_Level1.ogg
+
+#SPECIAL MAP MUSIC TRACKS
+Adobe Flash,music/game/Special Map OST/Cyon_AdobeFlash.ogg
+Ancient Artifact,music/game/Special Map OST/lava reef 2.spc
+Asteroid Fields,music/game/Special Map OST/KGGS_MeteorCluster.ogg
+Bunning Warehouse,music/game/Special Map OST/Bunnings Warehouse Main Theme.ogg
+Butter Building,music/game/Special Map OST/Cyon_ButterCedarBuilding.ogg
+Cave stories,music/game/Special Map OST/Meow893_Cavestories.ogg
+CloneChaos,music/game/Special Map OST/Meow_ClonesVSCats.ogg
+Desktop,music/game/Special Map OST/Touhou_6_Embodiment_of_Scarlet_Devil_-_U.N._Owen_Was_Her_V1.spc
+Doomlight Sonata,music/game/Special Map OST/Molly_MoonlightSonata.ogg
+Dream Land Bout,music/game/Special Map OST/Vegetable Valley.spc
+Generic Elevator,music/game/Special Map OST/Cyon_Elevator.ogg
+Green Greens,music/game/Special Map OST/undefinied3_GreenGreens.spc
+Musicwave,music/game/Special Map OST/CindyChan_CJam.ogg
+0smw Revisited,music/game/Special Map OST/SMB3_Overground.ogg,music/game/Special Map OST/SMB2_Overground.ogg
+Simple Ultima Map,music/game/Story Mode OST/RazeZX_Ultima.ogg
+Sans,music/game/Story Mode OST/Molly_MegaloMcMeow.ogg
+SYSTEM,music/game/Special Map OST/kuk.xm
+Tempest Shrine,music/game/Special Map OST/RazeZX_TempestShrine.ogg
+World 1-1,music/game/Special Map OST/MidiGuy_SMB - Overworld.spc
+
+#TEST LABS MUSIC TRACKS
+Test Lab 1,music/game/Special Map OST/Synthesis.spc
+Test Lab 2,music/game/Special Map OST/Synthesis.spc
+Test Lab 3,music/game/Special Map OST/Synthesis 3 - Stairways.spc
+Test Lab 4,music/game/Special Map OST/Synthesis 3 - Stairways.spc
+Test Lab 5,music/game/Special Map OST/Synthesis - Atlantic.spc
+Test Lab 6,music/game/Special Map OST/Synthesis - Atlantic.spc
+Test Lab 7,music/game/Special Map OST/Synthesis - Combat Cave.spc
+Test Lab FINALE!,music/game/Special Map OST/Boo takes charge.spc
+
+#SCT2 WORLD 1 MUSIC TRACKS
+1-1 Neko House,music/game/Classic/SCT2_NekoHouse.ogg
+1-2 Tin Soldiers,music/game/Classic/SCT2_McMeow.ogg
+1-3 Turnip Fields,music/game/Classic/SCT2_TurnipField.ogg
+1-4 Windy River,music/game/Classic/SCT2_RushingRiver.ogg
+1-5 Hikari City,music/game/Classic/SCT2_Town.ogg
+1-6 Tin Soldiers Hideout,music/game/Classic/SCT2_TinArmy.ogg
+1-7 Power Plant,music/game/Classic/SCT1_LavaRuins1.ogg
+1-8 City Harbor,music/game/Classic/SCT1_LavaRuins1.ogg
+1-B Butterflies,music/game/Classic/SCT1_Forest2.ogg
+VS Mizu,music/game/Classic/SCT2_Battle.ogg
+
+#STORY MODE MUSIC TRACKS GO HERE
+#WARNING - Unless if you want to personalize your experience further,
+#please do not modify these text strings below! These are the assigned
+#tracks for Story Mode maps.
+#
+#NOTE - To preserve compatibility, only tracks from the Story Mode OST
+#and Classic folders are used, in the event players download the
+#Neutronized version of SCW which uses a truncated OST.
+
+#WORLD 1 TRACKS
+Good Morning!,music/game/Classic/SCT2_NekoHouse.ogg
+Morning Breeze,music/game/Story Mode OST/Donnie_BrightMorningSunshine.ogg
+Hopping Oaks,music/game/Story Mode OST/Molly_TreetopScramble.ogg
+By the Riverside,music/game/Story Mode OST/Cyon_HappyCasualFight.ogg
+Enter Hikari,music/game/Story Mode OST/Molly_CatGameALTTim.ogg
+City Traffic Slam,music/game/Story Mode OST/Cyon_CityTrafficSlam.ogg
+Hikari Arena Showdown,music/game/Story Mode OST/Cyon_SCWTheme.ogg
+RISE OF DARK KALLIO,music/game/Story Mode OST/Cyon_KardionBoss.ogg
+Sandbar Chasers,music/game/Story Mode OST/Molly_MegaloMcMeow.ogg
+Canyon Cut,music/game/Story Mode OST/Donnie_BrightMorningSunshine.ogg
+
+#WORLD 2 TRACKS
+Shinji Ship,music/game/Story Mode OST/RazeZX_Beach.ogg
+Lighthouse Island,music/game/Story Mode OST/RazeZX_Beach.ogg
+Mecha Big Fin,music/game/Classic/SCT2_Battle.ogg
+Explosive Sea Duel,music/game/Story Mode OST/Cyon_KardionBoss.ogg
+Clash at Ramal,music/world/Super Cat Tales/desert.ogg
+Spiritual Sands,music/game/Story Mode OST/RazeZX_Desert.ogg
+Spirit King Reawakening,music/game/Classic/SCT2_Battle.ogg
+Eclipsed Pyramid,music/game/Story Mode OST/Molly_AncientTempleCalamity.ogg
+Raider of the Dark,music/game/Story Mode OST/Cyon_KardionBoss.ogg
+Desert Detour,music/game/Story Mode OST/Molly_StageB.ogg
+Swimming to Shore,music/game/Story Mode OST/RazeZX_Beach.ogg
+Turnip Temple,music/game/Story Mode OST/RazeZX_Mystery.ogg
+
+#WORLD 3 TRACKS
+Goldcoal Express,music/game/Story Mode OST/Molly_MegaloMcMeow.ogg
+Glacier Gorge,music/game/Story Mode OST/Donnie_BrightMorningSunshine.ogg
+Spore Springin,music/game/Story Mode OST/Molly_StageE.ogg
+Cemetery in Moonlight,music/game/Story Mode OST/RazeZX_Graveyard.ogg
+The Crescent Estate,music/game/Story Mode OST/Molly_GhostHouse.ogg
+Great Battle at Guldburg,music/game/Story Mode OST/Cyon_UnderSiege.ogg
+A Snow Tale,music/game/Story Mode OST/Cyon_HolidayEveryday.ogg
+SnowBrawl,music/game/Story Mode OST/Cyon_HolidayEveryday.ogg
+Freezing Flows,music/game/Story Mode OST/Cyon_HolidayEveryday.ogg
+Mine Factory,music/game/Story Mode OST/Cyon_FactoryTheme.ogg
+Junk Soldier Jam,music/game/Classic/SCT2_Battle.ogg
+
+#WORLD 4 TRACKS
+Atmospheric Airworld,music/game/Story Mode OST/Molly_CatGameALTSpace.ogg
+Dracona Nest,music/game/Story Mode OST/Molly_StageAOld.ogg
+Kaze Under Siege,music/game/Story Mode OST/Cyon_UnderSiege.ogg
+Ace Pilot Assault,music/game/Story Mode OST/Molly_MegaloMcMeow.ogg
+Hurricane Action,music/game/Story Mode OST/Molly_CatGameALTSpace.ogg
+The Green Baron,music/game/Story Mode OST/Cyon_KardionBoss.ogg
+
+#WORLD 5 TRACKS
+Bamboo Rush,music/game/Story Mode OST/RazeZX_BambooJungle.ogg
+Hot Spring Havoc,music/game/Classic/SCT2_HotSprings.ogg
+Monastery Temple,music/game/Story Mode OST/RazeZX_Mystery.ogg
+Yokai Festival,music/game/Story Mode OST/Molly_YokaiDungeon.ogg
+Ninja Nights,music/game/Story Mode OST/Molly_StageDOld.ogg
+Swamp Land,music/game/Story Mode OST/RazeZX_BambooJungle.ogg
+Water Temple Ruins,music/game/Classic/SCT2_Halloween.ogg
+Darkgazer Duel,music/game/Story Mode OST/Cyon_KardionBoss.ogg
+
+#WORLD 6 TRACKS
+Dusk til Darkness,music/game/Story Mode OST/Molly_TheLavaRising.ogg
+Rock n Lava,music/game/Story Mode OST/RazeZX_Volcano.ogg
+Lake of the Giant Bonefish,music/game/Classic/SCT2_Battle.ogg
+Tin Pirates Reprise,music/game/Story Mode OST/Molly_MegaloMcMeow.ogg
+Magumian Welcome,music/game/Classic/SCT2_MagumaBastion.ogg
+Fossil Frenzy,music/game/Story Mode OST/Molly_HeroTheme.ogg
+Azure Lane Beatdown,music/game/Story Mode OST/Molly_SCCMenuTheme.ogg
+Rigs the Train Tanker,music/game/PAWS Jams/SCTP_Battle.ogg
+PAWS MechaCannon Unit,music/game/Story Mode OST/Cyon_KardionBoss.ogg
+
+#WORLD 7 TRACKS
+Wrecked District,music/game/Story Mode OST/RazeZX_Ultima.ogg
+Plumbers Fantasy,music/game/Story Mode OST/Cyon_PlumbersFantasy.ogg
+Monkey Madness,music/game/Story Mode OST/RazeZX_Cheerful.ogg
+CBS-ABN TV Station,music/game/Story Mode OST/RazeZX_Cheerful.ogg
+Skyscraper Scramble,music/game/Story Mode OST/RazeZX_Ultima.ogg
+Highway Showdown,music/game/Story Mode OST/Cyon_CityTrafficSlam.ogg
+Stadium Rave,music/game/Story Mode OST/Cyon_MoveWithU.ogg
+One Night Stay,music/game/Story Mode OST/RazeZX_Cheerful.ogg
+Ultima Seaside Chaos,music/game/Story Mode OST/Cyon_KardionBoss.ogg
+Stormy Swim Away,music/game/Story Mode OST/Molly_MegaloMcMeow.ogg
+
+#WORLD 8 TRACKS
+Broken Metropolis,music/game/Story Mode OST/Cyon_DarkSun.ogg
+Nowhere World,music/game/Story Mode OST/Cyon_DarkSun.ogg
+Dark Mother Ship,music/game/Story Mode OST/Cyon_KardionBoss.ogg
+Bloodstone Cellar,music/game/Story Mode OST/RazeZX_Kardion.ogg
+Stealthy Halls,music/game/Story Mode OST/RazeZX_Kardion.ogg
+Dark Towers,music/game/Story Mode OST/RazeZX_Kardion.ogg
+Kardion Throne,music/game/Story Mode OST/Molly_DarkMatter.ogg
+SHADOW ROBO-KALLIO,music/game/Story Mode OST/Cyon_FinalBoss.ogg
+
+#EPILOGUE
+Super Cat Wars,music/game/Story Mode OST/RazeZX_Ending.ogg
+
+[worlds]
+#Music overrides are also treated the same way for worlds. Note that
+#only one music track can be set for a world.
+#If the song file or file path does not exist, the world instead uses
+#the original music category picked for it.
+
+#Example format of world music overrides is found below.
+#0smw,music/world/Standard/grassland.ogg
+
+STORYMODE,music/world/Super Cat Tales/world_storymode.ogg
+STORY MODE Party Edition,music/world/Super Cat Tales/world_storyparty.ogg
