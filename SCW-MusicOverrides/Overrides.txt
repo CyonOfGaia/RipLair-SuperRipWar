@@ -17,7 +17,7 @@
 Adobe Flash,music/game/Special Map OST/Cyon_AdobeFlash.ogg
 Ancient Artifact,music/game/Special Map OST/lava reef 2.spc
 Asteroid Fields,music/game/Special Map OST/KGGS_MeteorCluster.ogg
-Bunning Warehouse,music/game/Special Map OST/Bunnings Warehouse Main Theme.ogg
+Bunnings Warehouse,music/game/Special Map OST/Bunnings Warehouse Main Theme.ogg
 Butter Building,music/game/Special Map OST/Cyon_ButterCedarBuilding.ogg
 Cave stories,music/game/Special Map OST/Meow893_Cavestories.ogg
 CloneChaos,music/game/Special Map OST/Meow_ClonesVSCats.ogg
