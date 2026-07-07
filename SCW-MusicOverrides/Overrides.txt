@@ -26,6 +26,7 @@ Doomlight Sonata,music/game/Special Map OST/Molly_MoonlightSonata.ogg
 Dream Land Bout,music/game/Special Map OST/Vegetable Valley.spc
 Generic Elevator,music/game/Special Map OST/Cyon_Elevator.ogg
 Green Greens,music/game/Special Map OST/undefinied3_GreenGreens.spc
+Jurassic Highlands,music/game/Special Map OST/The Lost Underworld.ogg
 Musicwave,music/game/Special Map OST/CindyChan_CJam.ogg
 0smw Revisited,music/game/Special Map OST/SMB3_Overground.ogg,music/game/Special Map OST/SMB2_Overground.ogg
 Simple Ultima Map,music/game/Story Mode OST/RazeZX_Ultima.ogg
