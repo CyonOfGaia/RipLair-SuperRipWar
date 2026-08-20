@@ -31,6 +31,7 @@ Musicwave,music/game/Special Map OST/CindyChan_CJam.ogg
 0smw Revisited,music/game/Special Map OST/SMB3_Overground.ogg,music/game/Special Map OST/SMB2_Overground.ogg
 Simple Ultima Map,music/game/Story Mode OST/RazeZX_Ultima.ogg
 Sans,music/game/Story Mode OST/Molly_MegaloMcMeow.ogg
+Speedy Eggbert 2 - Tech World,/music/game/Custom/Speedy Eggbert - Music #1.ogg
 SYSTEM,music/game/Special Map OST/kuk.xm
 Tempest Shrine,music/game/Special Map OST/RazeZX_TempestShrine.ogg
 World 1-1,music/game/Special Map OST/MidiGuy_SMB - Overworld.spc
