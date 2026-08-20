@@ -11,7 +11,7 @@
 #0smw,music/game/Standard/smb3level1.ogg,music/game/Standard/M2_Level1.ogg
 #LethalLavaLevel,music/game/Custom/SMW_Boss.ogg
 #SO RETRO,music/game/Standard/Menu/menu.ogg
-#Speedy Eggbert 2 - Tech World,/music/game/Custom/Speedy Eggbert - Music #1.ogg
+#Speedy Eggbert 2 - Tech World,music/game/Custom/Speedy Eggbert - Music #1.ogg
 
 [worlds]
 #0smw,music/world/Standard/grassland.ogg
